@@ -2,21 +2,21 @@
     background-color: #000;
     background-size: cover;
     background-image: url(./Tuong-Ryoma.jpg);
-    height: 500px;
+    height: calc(100vh - 100px);
     background-position: center top;
 }
 .bg-img2 {
     background-color: #000;
     background-size: cover;
     background-image: url(./Tuong-Murad.jpg);
-    height: 500px;
+    height: calc(100vh - 100px);
     background-position: center top;
 }
 .bg-img3 {
     background-color: #000;
     background-size: cover;
     background-image: url(./Tuong-Nakroth.jpg);
-    height: 500px;
+    height: calc(100vh - 100px);
     background-position: center top;
 }
 
