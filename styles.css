@@ -1,0 +1,55 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./Tuong-Ryoma.jpg);
+    height: 500px;
+    background-position: center top;
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./Tuong-Murad.jpg);
+    height: 500px;
+    background-position: center top;
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./Tuong-Nakroth.jpg);
+    height: 500px;
+    background-position: center top;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+footer {
+    background-color: rgb(33, 37, 41);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    border-top: 2px solid rgb(216, 60, 60);
+}
+
+footer p {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+header h1 {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0px;
+    color: rgb(243, 243, 243);
+    z-index: 1000;
+
+}
